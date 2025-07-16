@@ -16,6 +16,7 @@ int main(){
 
 
 char c;
+
 cin>>c;
 
 if (c=='a')
