@@ -18,6 +18,7 @@ class Node
 
 int main()
 {
+    
     Node * Head;
     Head = NULL;
 
