@@ -60,4 +60,4 @@ int main() {
 }
 
 
-//what is static data type 
+//what is static data type -> that means the one data which is created only one time because it is used by all and hence none other copy is created 
