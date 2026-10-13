@@ -54,7 +54,7 @@ int main() {
     b.display();
 
     //we can access this static data outside the class by first making it public in class and then like this below
-    Customer::total = 5;
+    cout<<Customer::total ;
     b.display();
     //statics are part of class,so now how can we display or access static data inside a function
     // for that we have static functions 
@@ -64,7 +64,7 @@ int main() {
 
 
 
-
+//encapsulation means wrapping up variables and their related functions together to make it meaningful
     
 
     return 0;
